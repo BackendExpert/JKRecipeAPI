@@ -5,7 +5,7 @@ const APIRoute = require('./route/APIRoute')
 app.use('/api', APIRoute)
 
 app.use('/', (req, res) => {
-    res.send("Server is Running on 500000")
+    res.send("Server is Running on 5000")
 })
 
 
