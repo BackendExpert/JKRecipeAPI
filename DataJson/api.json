@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "name": "Pizza Dough",
+      "cuisine": "Italian",
+      "ingredients": [
+        { "name": "All-Purpose Flour", "quantity": "3.5 cups" },
+        { "name": "Warm Water", "quantity": "1.25 cups (110°F/45°C)" },
+        { "name": "Active Dry Yeast", "quantity": "1 packet (2.25 tsp)" },
+        { "name": "Sugar", "quantity": "1 tsp" },
+        { "name": "Salt", "quantity": "1 tsp" },
+        { "name": "Olive Oil", "quantity": "2 tbsp" }
+      ],
+      "instructions": "In a small bowl, combine warm water, sugar, and yeast. Let it sit for 5-10 minutes until frothy. In a large mixing bowl, combine flour and salt. Add the yeast mixture and olive oil to the flour and mix until a dough forms. Knead the dough on a floured surface for about 8-10 minutes until smooth and elastic. Place the dough in a lightly oiled bowl, cover with a damp cloth, and let it rise in a warm place for 1-2 hours, or until doubled in size. Once risen, punch down the dough, divide it into two balls, and roll out as needed for pizzas.",
+      "prepTime": 15,
+      "cookTime": 0,
+      "totalTime": 75,
+      "servings": 2,
+      "category": "Basics",
+      "nutrition": {
+        "calories": 200,
+        "protein": "5g",
+        "fat": "4g",
+        "carbohydrates": "35g"
+      },
+      "imageUrl": "https://example.com/images/pizza-dough.jpg",
+      "createdAt": "2025-01-28T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Margherita Pizza",
+      "cuisine": "Italian",
+      "ingredients": [
+        { "name": "Pizza Dough", "quantity": "1 ball (12-inch crust)" },
+        { "name": "Tomato Sauce", "quantity": "1/2 cup" },
+        { "name": "Mozzarella Cheese", "quantity": "1.5 cups (shredded)" },
+        { "name": "Fresh Basil Leaves", "quantity": "6-8 leaves" },
+        { "name": "Olive Oil", "quantity": "1 tbsp" },
+        { "name": "Salt", "quantity": "1/4 tsp" }
+      ],
+      "instructions": "Preheat oven to 500°F (260°C). Roll out the dough and place it on a pizza stone or baking sheet. Spread tomato sauce evenly over the dough, leaving a small border around the edges. Top with shredded mozzarella cheese and fresh basil leaves. Drizzle olive oil on top and sprinkle with salt. Bake for 8-12 minutes until the crust is golden and the cheese is bubbly.",
+      "prepTime": 15,
+      "cookTime": 10,
+      "totalTime": 25,
+      "servings": 2,
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 400,
+        "protein": "18g",
+        "fat": "14g",
+        "carbohydrates": "50g"
+      },
+      "imageUrl": "https://example.com/images/margherita-pizza.jpg",
+      "createdAt": "2025-01-28T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "BBQ Chicken Pizza",
+      "cuisine": "Fusion",
+      "ingredients": [
+        { "name": "Pizza Dough", "quantity": "1 ball (12-inch crust)" },
+        { "name": "BBQ Sauce", "quantity": "1/2 cup" },
+        { "name": "Cooked Chicken Breast", "quantity": "1 cup (shredded)" },
+        { "name": "Red Onion", "quantity": "1/4 cup (thinly sliced)" },
+        { "name": "Mozzarella Cheese", "quantity": "1.5 cups (shredded)" },
+        { "name": "Cilantro", "quantity": "2 tbsp (chopped)" }
+      ],
+      "instructions": "Preheat oven to 500°F (260°C). Roll out the dough and place it on a pizza stone or baking sheet. Spread BBQ sauce evenly over the dough, leaving a small border around the edges. Top with shredded chicken, red onion slices, and mozzarella cheese. Bake for 10-15 minutes until the crust is golden and the cheese is melted. Sprinkle chopped cilantro on top before serving.",
+      "prepTime": 20,
+      "cookTime": 12,
+      "totalTime": 32,
+      "servings": 2,
+      "category": "Dinner",
+      "nutrition": {
+        "calories": 450,
+        "protein": "25g",
+        "fat": "16g",
+        "carbohydrates": "48g"
+      },
+      "imageUrl": "https://example.com/images/bbq-chicken-pizza.jpg",
+      "createdAt": "2025-01-28T00:00:00.000Z"
+    }
+]
+  
