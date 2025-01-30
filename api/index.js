@@ -7,4 +7,5 @@ app.get("/", (req, res) => {
   res.send("Hello, Vercel!");
 });
 
-module.exports.handler = serverless(app);
+
+module.exports = serverless(app); // Exporting the handler directly
