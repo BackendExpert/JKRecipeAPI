@@ -7,6 +7,4 @@ app.get("/", (req, res) => {
   res.send("Hello, Vercel!");
 });
 
-// ❌ REMOVE: app.listen(PORT, () => {...}) 
-// ✅ Export the app for Vercel
 module.exports.handler = serverless(app);
