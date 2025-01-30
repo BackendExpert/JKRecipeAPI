@@ -9,5 +9,4 @@ app.get("/", (req, res) => {
 
 // ❌ REMOVE: app.listen(PORT, () => {...}) 
 // ✅ Export the app for Vercel
-module.exports = app;
 module.exports.handler = serverless(app);
