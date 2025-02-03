@@ -21,7 +21,6 @@ const APIController = {
 
     onedata: async(req, res) => {
         try{
-            // const recipeID = req.params.id
             const recipeID = Number(req.params.id);
 
 
