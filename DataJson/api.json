@@ -309,6 +309,175 @@
         "carbohydrates": "40g"
       },
       "createdAt": "2025-01-28T00:00:00.000Z"
+    },
+    {
+      "id": 13,
+      "name": "New York-Style Pizza",
+      "cuisine": "American",
+      "ingredients": [
+        { "name": "Pizza Dough", "quantity": "1 ball" },
+        { "name": "Tomato Sauce", "quantity": "1/2 cup" },
+        { "name": "Mozzarella Cheese", "quantity": "8 oz, shredded" },
+        { "name": "Olive Oil", "quantity": "1 tbsp" }
+      ],
+      "instructions": "Preheat oven to 500°F (260°C). Roll out the dough into a thin, large circle. Spread tomato sauce evenly, then sprinkle with mozzarella. Drizzle with olive oil. Bake for 12-15 minutes until the crust is crispy and golden brown. Slice and serve.",
+      "prepTime": 15,
+      "cookTime": 15,
+      "totalTime": 30,
+      "servings": 4,
+      "category": "Pizza",
+      "nutrition": {
+        "calories": 320,
+        "protein": "15g",
+        "fat": "12g",
+        "carbohydrates": "40g"
+      },
+      "createdAt": "2025-01-28T00:00:00.000Z"
+    },
+    {
+      "id": 14,
+      "name": "Chicago Deep-Dish Pizza",
+      "cuisine": "American",
+      "ingredients": [
+        { "name": "Deep-Dish Pizza Dough", "quantity": "1 ball" },
+        { "name": "Tomato Sauce", "quantity": "1 cup" },
+        { "name": "Mozzarella Cheese", "quantity": "12 oz, shredded" },
+        { "name": "Italian Sausage", "quantity": "1/2 lb, cooked" },
+        { "name": "Parmesan Cheese", "quantity": "1/4 cup, grated" }
+      ],
+      "instructions": "Preheat oven to 425°F (220°C). Press dough into a deep-dish pan, pushing up the sides. Layer cheese, sausage, and sauce on top. Sprinkle with Parmesan. Bake for 35-40 minutes until golden. Let cool before slicing.",
+      "prepTime": 20,
+      "cookTime": 40,
+      "totalTime": 60,
+      "servings": 6,
+      "category": "Pizza",
+      "nutrition": {
+        "calories": 450,
+        "protein": "20g",
+        "fat": "22g",
+        "carbohydrates": "50g"
+      },
+      "createdAt": "2025-01-28T00:00:00.000Z"
+    },
+    {
+      "id": 15,
+      "name": "Detroit-Style Pizza",
+      "cuisine": "American",
+      "ingredients": [
+        { "name": "Thick-Crust Pizza Dough", "quantity": "1 ball" },
+        { "name": "Brick Cheese", "quantity": "10 oz, cubed" },
+        { "name": "Pepperoni", "quantity": "12 slices" },
+        { "name": "Tomato Sauce", "quantity": "3/4 cup" }
+      ],
+      "instructions": "Preheat oven to 475°F (245°C). Press dough into a rectangular pan. Add cheese along edges for crispy crust. Layer with pepperoni, then spoon sauce on top. Bake for 15-20 minutes. Slice and serve.",
+      "prepTime": 15,
+      "cookTime": 20,
+      "totalTime": 35,
+      "servings": 4,
+      "category": "Pizza",
+      "nutrition": {
+        "calories": 400,
+        "protein": "18g",
+        "fat": "15g",
+        "carbohydrates": "45g"
+      },
+      "createdAt": "2025-01-28T00:00:00.000Z"
+    },
+    {
+      "id": 16,
+      "name": "Sicilian Pizza",
+      "cuisine": "Italian",
+      "ingredients": [
+        { "name": "Thick-Crust Pizza Dough", "quantity": "1 ball" },
+        { "name": "Tomato Sauce", "quantity": "1 cup" },
+        { "name": "Mozzarella Cheese", "quantity": "10 oz, shredded" },
+        { "name": "Olive Oil", "quantity": "2 tbsp" }
+      ],
+      "instructions": "Preheat oven to 450°F (230°C). Press dough into an oiled baking sheet. Spread sauce, sprinkle cheese, and drizzle olive oil. Bake for 20-25 minutes until golden. Let cool, then slice.",
+      "prepTime": 20,
+      "cookTime": 25,
+      "totalTime": 45,
+      "servings": 6,
+      "category": "Pizza",
+      "nutrition": {
+        "calories": 380,
+        "protein": "16g",
+        "fat": "14g",
+        "carbohydrates": "42g"
+      },
+      "createdAt": "2025-01-28T00:00:00.000Z"
+    },
+    {
+      "id": 17,
+      "name": "St. Louis-Style Pizza",
+      "cuisine": "American",
+      "ingredients": [
+        { "name": "Thin-Crust Pizza Dough", "quantity": "1 ball" },
+        { "name": "Provel Cheese", "quantity": "10 oz, shredded" },
+        { "name": "Tomato Sauce", "quantity": "1/2 cup" }
+      ],
+      "instructions": "Preheat oven to 475°F (245°C). Roll dough very thin, spread sauce, then top with cheese. Bake for 10-12 minutes. Cut into squares and serve.",
+      "prepTime": 10,
+      "cookTime": 12,
+      "totalTime": 22,
+      "servings": 4,
+      "category": "Pizza",
+      "nutrition": {
+        "calories": 350,
+        "protein": "14g",
+        "fat": "12g",
+        "carbohydrates": "40g"
+      },
+      "createdAt": "2025-01-28T00:00:00.000Z"
+    },
+    {
+      "id": 18,
+      "name": "California Pizza",
+      "cuisine": "American",
+      "ingredients": [
+        { "name": "Pizza Dough", "quantity": "1 ball" },
+        { "name": "Mozzarella Cheese", "quantity": "8 oz, shredded" },
+        { "name": "Tomato Sauce", "quantity": "1/2 cup" },
+        { "name": "Avocado", "quantity": "1, sliced" },
+        { "name": "Grilled Chicken", "quantity": "1/2 cup, sliced" }
+      ],
+      "instructions": "Preheat oven to 475°F (245°C). Roll out dough, spread sauce, and add cheese. Bake for 12 minutes. Top with avocado and chicken. Slice and serve.",
+      "prepTime": 15,
+      "cookTime": 12,
+      "totalTime": 27,
+      "servings": 4,
+      "category": "Pizza",
+      "nutrition": {
+        "calories": 370,
+        "protein": "17g",
+        "fat": "14g",
+        "carbohydrates": "40g"
+      },
+      "createdAt": "2025-01-28T00:00:00.000Z"
+    },
+    {
+      "id": 19,
+      "name": "Greek Pizza",
+      "cuisine": "Greek",
+      "ingredients": [
+        { "name": "Pizza Dough", "quantity": "1 ball" },
+        { "name": "Tomato Sauce", "quantity": "1/2 cup" },
+        { "name": "Feta Cheese", "quantity": "6 oz, crumbled" },
+        { "name": "Kalamata Olives", "quantity": "1/4 cup, sliced" }
+      ],
+      "instructions": "Preheat oven to 475°F (245°C). Roll out dough, spread sauce, and add cheese and olives. Bake for 12 minutes. Slice and serve.",
+      "prepTime": 15,
+      "cookTime": 12,
+      "totalTime": 27,
+      "servings": 4,
+      "category": "Pizza",
+      "nutrition": {
+        "calories": 340,
+        "protein": "13g",
+        "fat": "12g",
+        "carbohydrates": "38g"
+      },
+      "createdAt": "2025-01-28T00:00:00.000Z"
     }
 ]
   
