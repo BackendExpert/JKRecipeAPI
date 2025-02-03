@@ -17,6 +17,15 @@ const APIController = {
         catch(err){
             console.log(err)
         }
+    },
+
+    onedata: async(req, res) => {
+        try{
+            const recipeID = req.params.id
+        }
+        catch(err){
+            console.log(err)
+        }
     }
 };  
 
